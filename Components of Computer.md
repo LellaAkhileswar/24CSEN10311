@@ -1,6 +1,6 @@
-# *COMPONENTS OF COMPUTER* 🖥️
+ # *COMPONENTS OF COMPUTER* 🖥️
 
-## *__Input Devices__* : 🎮 
+- ## *__Input Devices__* : 🎮 
 
 Keyboard
 
@@ -8,7 +8,7 @@ Mouse
 
 Microphone
 
-## *__Output Devices__* :  📹
+- ## *__Output Devices__* :  📹
 
 Monitor
 
@@ -18,7 +18,7 @@ Speaker
 
 Printer
 
-## *__Hardware components__* : ❄️
+- ## *__Hardware components__* : ❄️
 CPU
 
 Mother board
@@ -27,7 +27,7 @@ RAM
 
 Cooling system 
 
-## *__Software components__* : ⚙️
+- ## *__Software components__* : ⚙️
 
 Operating system
 
