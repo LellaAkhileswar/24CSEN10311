@@ -23,3 +23,13 @@ int main() {
    
    return 0;
 }
+output:
+enter any number: 4562
+
+
+ the sum of the digits in the entered number is : 17
+
+enter any number: 4578798
+
+
+ the sum of the digits in the entered number is : 48
