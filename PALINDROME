@@ -22,3 +22,10 @@ int main() {
    }
        return 0;
 }
+output:
+Enter any number to check whether it is Palindrome Number or not: 153
+
+Entered number is NOT a Palindrome Number
+Enter any number to check whether it is Palindrome Number or not: 12121
+
+Entered number is A Palindrome Number
