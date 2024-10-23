@@ -20,3 +20,12 @@ int main() {
    
    return 0;
 }
+output:
+enter any number to be reversed: 5689
+
+
+after reversing: 9865
+enter any number to be reversed: 121246
+
+
+after reversing: 642121
