@@ -20,3 +20,12 @@ int main() {
    }
     return 0;
 }
+output:
+Enter any number to check whether it is an Armstrong Number or not: 45
+
+
+the entered number is NOT an Armstrong Number
+Enter any number to check whether it is an Armstrong Number or not: 153
+
+
+The entered number IS an Armstrong Number
