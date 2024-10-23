@@ -16,3 +16,12 @@ int main() {
    }
   return 0;
 }
+output:
+enter any number to be reversed: 456
+
+
+after reversing:
+ 
+6
+5
+4
