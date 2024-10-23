@@ -21,7 +21,7 @@ int main() {
     return 0;
 }
 
-## *__output__*
+output:
 Enter any number to check whether it is an Armstrong Number or not: 45
 
 
